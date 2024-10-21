@@ -1,0 +1,1 @@
+docker run --rm -p 83:80 -v .:/usr/share/nginx/html nginx
